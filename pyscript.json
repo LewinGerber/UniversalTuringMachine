@@ -1,0 +1,6 @@
+{
+    "packages": ["arrr"],
+    "files": {
+        "tm_parser.py": "./tm_parser.py"
+    }
+}
